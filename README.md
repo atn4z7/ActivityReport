@@ -5,8 +5,8 @@ A SMS/Email Activity Report Utility for fitness apps.
 
 ## Used APIs:
 
-Context.IO - http://context.io/docs/2.0/
-Twilio - https://www.twilio.com/docs/api
+-Context.IO http://context.io/docs/2.0/
+-Twilio https://www.twilio.com/docs/api
 
 ## Requirements
 PHP, Apache
