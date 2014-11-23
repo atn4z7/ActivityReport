@@ -7,6 +7,7 @@ A SMS/Email Activity Report Utility for fitness apps.
 To get a today report for a user: 
 - Text "username today" to the Twilio phone number
 - A message containing the report will be sent to your phone and your email address
+
 To get the last 30 reports for a user from an email account: 
 - Text "username recent" to the Twilio phone number 
 - A message containing the link to the summary report will be sent to your phone
