@@ -5,11 +5,12 @@ A SMS/Email Activity Report Utility for fitness apps.
 
 ## How to use
 - To get a today report for a user: Text "username today" to the Twilio phone number 
-- To get the last 30 reports for a user : Text "username recent" to the Twilio phone number 
+- To get the last 30 reports for a user from an email account: Text "username recent" to the Twilio phone number 
 
 ## Used APIs
 - Context.IO http://context.io/docs/2.0/
 - Twilio https://www.twilio.com/docs/api
+- Google Charts https://google-developers.appspot.com/chart/
 
 ## Requirements
 PHP, Apache
