@@ -1,7 +1,7 @@
 ActivityReport
 ==============
 
-A SMS/Email Activity Report Utility for fitness apps.
+A SMS/Email Activity Report Utility for Parents/Doctors. 
 
 ## How to use
 To get a today report for a user: 
