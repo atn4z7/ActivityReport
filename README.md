@@ -8,8 +8,8 @@ A SMS/Email Activity Report Utility for fitness apps.
 - To get the last 30 reports for a user : Text "username recent" to the Twilio phone number 
 
 ## Used APIs
--Context.IO http://context.io/docs/2.0/
--Twilio https://www.twilio.com/docs/api
+- Context.IO http://context.io/docs/2.0/
+- Twilio https://www.twilio.com/docs/api
 
 ## Requirements
 PHP, Apache
