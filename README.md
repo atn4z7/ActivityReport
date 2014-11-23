@@ -1,7 +1,7 @@
 ActivityReport
 ==============
 
-A SMS/Email Activity Report for fitness apps.
+A SMS/Email Activity Report Utility for fitness apps.
 
 ## Used APIs:
 
